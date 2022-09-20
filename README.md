@@ -134,5 +134,7 @@ Access the `admin` section in the browser: `http://127.0.0.1:8000/`
 
 @todo
 
+<br />
+
 ---
 **Django Admin Soft Dashboard** - Open-source Django Admin THEME provided by **AppSeed [App Generator](https://appseed.us/)**
