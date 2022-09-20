@@ -2,6 +2,8 @@
 
 Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashboard](https://github.com/app-generator/ct-soft-ui-dashboard-enh)** (free version). 
 
+> UI Kit: `[Soft UI Dashboard](https://github.com/app-generator/ct-soft-ui-dashboard-enh)` **v1.0.6-enh1**
+
 <br>
 
 **Links & Resources**
