@@ -48,7 +48,7 @@ $ pip install git+https://github.com/app-generator/django-admin-soft-dashboard.g
 ```python
     INSTALLED_APPS = (
         ...
-        'admin_volt.apps.AdminSoftDashboardConfig',
+        'admin_soft.apps.AdminSoftDashboardConfig',
         'django.contrib.admin',
     )
 ```
