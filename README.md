@@ -43,7 +43,7 @@ $ pip install git+https://github.com/app-generator/django-admin-soft-dashboard.g
 
 <br />
 
-> Add `admin_volt` application to the `INSTALLED_APPS` setting of your Django project `settings.py` file (note it should be before `django.contrib.admin`):
+> Add `admin_soft` application to the `INSTALLED_APPS` setting of your Django project `settings.py` file (note it should be before `django.contrib.admin`):
 
 ```python
     INSTALLED_APPS = (
