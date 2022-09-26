@@ -1,4 +1,10 @@
 
+## [0.0.3] 2022-09-26
+### Minor Changes
+
+- Beautify `README` for PyPi
+- Added `.gitignore` 
+
 ## [0.0.2] 2022-09-26
 ### Improvements
 

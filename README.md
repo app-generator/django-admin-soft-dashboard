@@ -8,9 +8,9 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 
 ## **Links & Resources**
 
-- 👉 [Soft UI Dashboard Django](https://appseed.us/product/soft-ui-dashboard/django/) - `free starter` that uses the same UI Kit
-- 👉 [Soft UI Dashboard Django](https://django-soft-ui-dashboard.appseed-srv1.com/) - `LIVE Demo`
-- 👉 More [Django Dashboards](https://appseed.us/admin-dashboards/django) provided by AppSeed 
+- [Soft UI Dashboard Django](https://appseed.us/product/soft-ui-dashboard/django/) - `free starter` that uses the same UI Kit
+- [Soft UI Dashboard Django](https://django-soft-ui-dashboard.appseed-srv1.com/) - `LIVE Demo`
+- More [Django Dashboards](https://appseed.us/admin-dashboards/django) provided by AppSeed 
 
 <br />
 
@@ -33,7 +33,7 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 
 <br />
 
-> 👉 Install the package via `PIP` 
+> **Install the package** via `PIP` 
 
 ```bash
 $ pip install django-admin-soft-dashboard
@@ -55,7 +55,7 @@ $ pip install git+https://github.com/app-generator/django-admin-soft-dashboard.g
 
 <br />
 
-> 👉 Collect static if you are in production environment:
+> **Collect static** if you are in `production environment`:
 
 ```bash
 $ python manage.py collectstatic
@@ -63,7 +63,7 @@ $ python manage.py collectstatic
 
 <br />
 
-> 👉 Start the app
+> **Start the app**
 
 ```bash
 $ # Set up the database
