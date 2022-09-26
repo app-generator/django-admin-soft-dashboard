@@ -25,7 +25,7 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 
 <br />
 
-![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/191189699-fbd527b6-ba10-465a-a7f7-a27b3d0d19bc.png)
+![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209346-32d797c6-71b2-4b15-9910-a05af3ce4f86.jpg)
 
 <br>
 
@@ -132,7 +132,11 @@ Access the `admin` section in the browser: `http://127.0.0.1:8000/`
 
 ## Screenshots
 
-@todo
+![Django Admin Soft (Dark Mode) - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209421-c71ebb42-7851-47eb-9942-6054e2010b82.jpg)
+
+<br />
+
+![Django Admin Soft (Login Page) - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209441-2182d38f-814e-4123-ad54-7c3b580198fe.jpg) 
 
 <br />
 
