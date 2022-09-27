@@ -1,4 +1,9 @@
 
+## [0.0.4] 2022-09-27
+### Improvements
+
+- Code refactoring
+
 ## [0.0.3] 2022-09-26
 ### Minor Changes
 
