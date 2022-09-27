@@ -1,5 +1,7 @@
-{% extends "admin/base_site.html" %}
+{% extends "layouts/base.html" %}
 {% load i18n static %}
+
+{% block title %} Home {% endblock title %}
 
 {% block content %}
 
@@ -599,7 +601,7 @@
         </div>
       </div>
 
-      {% include "admin/includes/footer.html" %}
+      {% include "includes/footer.html" %}
 
     </div>
 

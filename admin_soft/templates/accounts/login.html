@@ -1,9 +1,9 @@
-{% extends 'admin/base-fullscreen.html' %}
+{% extends 'layouts/base-fullscreen.html' %}
 {% load i18n static admin_soft %}
 
 {% block content %}
 
-  {% include 'admin/includes/navbar-fullscreen.html' %}
+  {% include 'includes/navigation-fullscreen.html' %}
 
   <main class="main-content  mt-0">
     <section>
@@ -35,7 +35,7 @@
                         placeholder="{{ form.username.label }}" 
                         name="{{ form.username.name }}"
                         id="{{ form.username.id_for_label }}"
-                    >
+                      >
                     </div>
                     <label for="{{ form.password.id_for_label }}">{{ form.password.label }}</label>
                     <div class="mb-3">
@@ -45,7 +45,7 @@
                         placeholder="{{ form.password.label }}" 
                         name="{{ form.password.name }}"
                         id="{{ form.password.id_for_label }}"
-                    >
+                      >
                     </div>
                     <div class="form-check form-switch">
                       <input class="form-check-input" type="checkbox" id="rememberMe" checked="">
@@ -55,16 +55,6 @@
                       <button class="btn bg-gradient-info w-100 mt-4 mb-0">Sign in</button>
                     </div>
                   </form>
-                </div>
-                <div class="card-footer text-center pt-0 px-lg-2 px-1">
-                  <p class="mb-4 text-sm mx-auto">
-                    {% url 'admin_password_reset' as password_reset_url %}
-                    {% if password_reset_url %}
-                    <a href="{{ password_reset_url }}" class="text-info text-gradient font-weight-bold">
-                        Forgotten your password or username?
-                    </a>
-                    {% endif %}
-                  </p>
                 </div>
               </div>
             </div>
@@ -79,7 +69,7 @@
     </section>
   </main>
 
-  {% include 'admin/includes/footer-fullscreen.html' %}
+  {% include 'includes/footer-fullscreen.html' %}
 
 {% endblock content %}
 
