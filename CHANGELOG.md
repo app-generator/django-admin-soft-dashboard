@@ -1,4 +1,11 @@
 
+## [0.0.5] 2022-09-28
+### Improvements
+
+- AUTH pages:
+  - import fix on Registration page
+  - Update cross-Links (login & register)
+
 ## [0.0.4] 2022-09-27
 ### Improvements
 
