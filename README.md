@@ -4,15 +4,11 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 
 > UI Kit: [Soft UI Dashboard](https://github.com/app-generator/ct-soft-ui-dashboard-enh) **v1.0.6-enh1**
 
+<br> 
+
+![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209346-32d797c6-71b2-4b15-9910-a05af3ce4f86.jpg)
+
 <br>
-
-## **Links & Resources**
-
-- [Soft UI Dashboard Django](https://appseed.us/product/soft-ui-dashboard/django/) - `free starter` that uses the same UI Kit
-- [Soft UI Dashboard Django](https://django-soft-ui-dashboard.appseed-srv1.com/) - `LIVE Demo`
-- More [Django Dashboards](https://appseed.us/admin-dashboards/django) provided by AppSeed 
-
-<br />
 
 ## Why Django Admin Soft?
 
@@ -24,10 +20,6 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 - Easy integration
 
 <br />
-
-![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209346-32d797c6-71b2-4b15-9910-a05af3ce4f86.jpg)
-
-<br>
 
 ## How to use it
 
