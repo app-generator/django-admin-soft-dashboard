@@ -1,4 +1,4 @@
-# Django Admin Soft Dashboard
+# [Django Admin Soft](https://pypi.org/project/django-admin-soft-dashboard/) Dashboard
 
 Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200)** (free version) released by `Creative-Tim`.
 
