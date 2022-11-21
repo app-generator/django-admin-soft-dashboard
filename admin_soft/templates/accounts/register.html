@@ -35,61 +35,20 @@
                         </p>
   
                     {% else %}
-
-                        <form role="form" method="post" action="{{ app_path }}">
+                        
+                        <form role="form" method="post" action="#">
 
                             {% csrf_token %}
-
-                            <label for="{{ form.username.id_for_label }}">{{ form.username.label }}</label>
-                            <div class="mb-3">
-                            <input 
-                                type="text" 
-                                class="form-control" 
-                                placeholder="{{ form.username.label }}" 
-                                name="{{ form.username.name }}"
-                                id="{{ form.username.id_for_label }}"
-                            >
-                            </div>
-                            <span class="text-danger">{{ form.username.errors }}</span>
-
-                            <label for="{{ form.email.id_for_label }}">{{ form.email.label }}</label>
-                            <div class="mb-3">
-                            <input 
-                                type="text" 
-                                class="form-control" 
-                                placeholder="{{ form.email.label }}" 
-                                name="{{ form.email.name }}"
-                                id="{{ form.email.id_for_label }}"
-                            >
-                            </div>
-                            <span class="text-danger">{{ form.email.errors }}</span>
-
-                            <label for="{{ form.password1.id_for_label }}">{{ form.password1.label }}</label>
-                            <div class="mb-3">
-                            <input 
-                                type="password" 
-                                class="form-control" 
-                                placeholder="{{ form.password1.label }}" 
-                                name="{{ form.password1.name }}"
-                                id="{{ form.password1.id_for_label }}"
-                            >
-                            </div>
-                            <span class="text-danger">{{ form.password1.errors }}</span>
-
-                            <label for="{{ form.password2.id_for_label }}">{{ form.password2.label }}</label>
-                            <div class="mb-3">
-                            <input 
-                                type="password" 
-                                class="form-control" 
-                                placeholder="{{ form.password2.label }}" 
-                                name="{{ form.password2.name }}"
-                                id="{{ form.password2.id_for_label }}"
-                            >
-                            </div>        
-                            <span class="text-danger">{{ form.password2.errors }}</span>            
+                            {% for field in form %}
+                              <label for="{{ field.id_for_label }}">{{ field.label }}</label>
+                              <div class="mb-3">
+                                {{field}}
+                              </div>
+                              <span class="text-danger">{{ field.errors }}</span>
+                            {% endfor %}
 
                             <div class="text-center">
-                              <button class="btn bg-gradient-info w-100 mt-4 mb-0">Sign UP</button>
+                              <button type="submit" class="btn bg-gradient-info w-100 mt-4 mb-0">Sign UP</button>
                               <p class="mt-4">
                                 Have an account? 
                                 <a href="{% url 'login' %}" class="text-primary">Login</a>
