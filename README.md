@@ -69,7 +69,7 @@ $ pip install git+https://github.com/app-generator/django-admin-soft-dashboard.g
 
     urlpatterns = [
         ...
-        path('', include('admin_argon.urls')),
+        path('', include('admin_soft.urls')),
     ]
 ```
 
