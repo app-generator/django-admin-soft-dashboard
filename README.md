@@ -8,8 +8,9 @@ Modern template for **Django Admin Interface** coded on top of **Soft UI Dashboa
 
 **Links & Resources**
 
-- [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) - free starter with the same design
+- UI Kit: [Material Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) `v1.0.6` by Creative-Tim
 - [Django Soft Dashboard](https://django-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
+- [Django Soft Dashboard](https://github.com/app-generator/django-admin-soft-dashboard_p) - `playground project`
 
 <br />
 
@@ -103,13 +104,18 @@ Access the `admin` section in the browser: `http://127.0.0.1:8000/`
 
 ## Screenshots
 
-> **Soft UI Theme** - `Admin Section` 
+Designed for those who like bold elements and beautiful websites Soft UI Dashboard is ready to help you create stunning websites and webapps.
+this open-source [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Kit is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.
+
+<br />
+
+> **[Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard)** - `Admin Section` 
 
 ![Django Admin Soft (Dark Mode) - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209421-c71ebb42-7851-47eb-9942-6054e2010b82.jpg)
 
 <br />
 
-> **Soft UI Theme** - `SignIN Page` 
+> **[Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard)** - `SignIN Page` 
 
 ![Django Admin Soft (Login Page) - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209441-2182d38f-814e-4123-ad54-7c3b580198fe.jpg) 
 
