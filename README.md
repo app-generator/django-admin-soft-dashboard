@@ -8,7 +8,7 @@ Modern template for **Django Admin Interface** coded on top of **Soft UI Dashboa
 
 **Links & Resources**
 
-- UI Kit: [Material Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) `v1.0.6` by Creative-Tim
+- UI Kit: [Soft Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) `v1.0.6` by Creative-Tim
 - [Django Soft Dashboard](https://django-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
 - [Django Soft Dashboard](https://github.com/app-generator/django-admin-soft-dashboard_p) - `playground project`
 
