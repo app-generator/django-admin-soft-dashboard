@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.7] 2023-01-09
+### Changes
+
+- Links Curation (footer, navigation..)
+- DOCS Update (readme) 
+
 ## [1.0.6] 2023-01-09
 ### Changes
 
