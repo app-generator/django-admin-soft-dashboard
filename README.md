@@ -1,6 +1,6 @@
-# [Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard) 
+# [Django Admin Soft](https://appseed.us/product/soft-ui-dashboard/django/) 
 
-Modern template for **Django Admin Interface** coded on top of **Soft UI Dashboard**, an open-source `Boostrap 5` design from `Creative-Tim`.
+Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)**, an open-source `Boostrap 5` design from `Creative-Tim`.
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
@@ -8,19 +8,19 @@ Modern template for **Django Admin Interface** coded on top of **Soft UI Dashboa
 
 **Links & Resources**
 
-- UI Kit: [Soft Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) `v1.0.6` by Creative-Tim
-- [Django Soft Dashboard](https://django-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
-- [Django Soft Dashboard](https://github.com/app-generator/django-admin-soft-dashboard_p) - `playground project`
+- [Django Admin Soft](https://appseed.us/product/soft-ui-dashboard/django/) - `Product page`
+  - `Features`: Fully-configured, `CI/CD` via Render
+- UI Kit: [Material Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) `v1.0.7` by Creative-Tim
 
 <br />
 
-![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/175773323-3345d618-0e78-4c85-83fc-f495dc3f0bb0.png)
+![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/211278331-70dde54b-444c-4394-9e20-a2faa5d0b7de.png)
 
 <br>
 
 ## Why `Django Admin Soft`
 
-- Modern `Bootstrap 5` Design
+- Modern [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Design
 - `Responsive Interface`
 - `Minimal Template` overriding
 - `Easy integration`
@@ -102,24 +102,26 @@ Access the `admin` section in the browser: `http://127.0.0.1:8000/`
 
 <br />
 
-## Screenshots
+## [PRO Version](https://appseed.us/product/soft-ui-dashboard-pro/django/)   
 
-Designed for those who like bold elements and beautiful websites Soft UI Dashboard is ready to help you create stunning websites and webapps.
-this open-source [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Kit is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining.
+This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Dashboard with a fresh, new design concept. `Soft UI Dashboard PRO` is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
+
+> Features: 
+
+- `Up-to-date Dependencies`
+- `Design`: [Django Theme Material2](https://github.com/app-generator/django-soft-ui-dashboard-pro) - `PRO Version`
+- `Sections` covered by the design:
+  - **Admin section** (reserved for superusers)
+  - **Authentication**: `Django.contrib.AUTH`, Registration
+  - **All Pages** available in for ordinary users 
+- `Docker`, `Deployment`:
+  - `CI/CD` flow via `Render`
 
 <br />
 
-> **[Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard)** - `Admin Section` 
-
-![Django Admin Soft (Dark Mode) - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209421-c71ebb42-7851-47eb-9942-6054e2010b82.jpg)
-
-<br />
-
-> **[Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard)** - `SignIN Page` 
-
-![Django Admin Soft (Login Page) - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/192209441-2182d38f-814e-4123-ad54-7c3b580198fe.jpg) 
+![Soft UI Dashboard Pro](https://user-images.githubusercontent.com/51070104/211278814-881e0fcf-7986-4386-afee-540aa0f53bba.png)
 
 <br />
 
 ---
-**[Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
+**[Django Admin Soft](https://appseed.us/product/soft-ui-dashboard/django/) ** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
