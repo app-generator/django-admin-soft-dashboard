@@ -10,7 +10,7 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 
 - [Django Admin Soft](https://appseed.us/product/soft-ui-dashboard/django/) - `Product page`
   - `Features`: Fully-configured, `CI/CD` via Render
-- UI Kit: [Material Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) `v1.0.7` by Creative-Tim
+- UI Kit: [Soft Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) `v1.0.7` by Creative-Tim
 
 <br />
 
