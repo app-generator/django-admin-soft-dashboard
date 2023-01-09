@@ -109,7 +109,7 @@ This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bo
 > Features: 
 
 - `Up-to-date Dependencies`
-- `Design`: [Django Theme Material2](https://github.com/app-generator/django-soft-ui-dashboard-pro) - `PRO Version`
+- `Design`: [Django Theme Soft PRO](https://github.com/app-generator/django-admin-soft-pro) - `PRO Version`
 - `Sections` covered by the design:
   - **Admin section** (reserved for superusers)
   - **Authentication**: `Django.contrib.AUTH`, Registration
