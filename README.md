@@ -124,4 +124,4 @@ This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bo
 <br />
 
 ---
-**[Django Admin Soft](https://appseed.us/product/soft-ui-dashboard/django/) ** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
+**[Django Admin Soft](https://appseed.us/product/soft-ui-dashboard/django/)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
