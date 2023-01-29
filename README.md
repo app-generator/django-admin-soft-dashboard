@@ -10,7 +10,7 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 
 - [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) - `Product` that uses the library (fully configured)
   - `Features`: Fully-configured, `CI/CD` via Render
-- **UI Kit**:  [Soft Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) by Creative-Tim
+- **UI Kit**: [Soft Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) by Creative-Tim
 - **Sections Covered**: 
   - `Admin Section`, reserved for `superusers`
   - `All pages` managed by `Django.contrib.AUTH`
