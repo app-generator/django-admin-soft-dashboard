@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.9] 2023-01-29
+### Changes
+
+- Include DOCS link:
+  - [Soft UI Theme](https://docs.appseed.us/boilerplate-code/django-templates/soft-dashboard/)
+  - [Soft UI Dashboard](https://docs.appseed.us/products/django-dashboards/soft-ui-dashboard/)
+
 ## [1.0.8] 2023-01-29
 ### Changes
 
