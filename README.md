@@ -4,13 +4,18 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
-<br>
+<br />
 
-**Links & Resources**
+## Features: 
 
-- [Django Admin Soft](https://appseed.us/product/soft-ui-dashboard/django/) - `Product page`
+- [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) - `Product` that uses the library (fully configured)
   - `Features`: Fully-configured, `CI/CD` via Render
-- UI Kit: [Soft Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) `v1.0.7` by Creative-Tim
+- **UI Kit**:  [Soft Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) by Creative-Tim
+- **Sections Covered**: 
+  - `Admin Section`, reserved for `superusers`
+  - `All pages` managed by `Django.contrib.AUTH`
+  - `Registration` page
+  - `Misc pages`: colors, icons, typography, blank-page 
 
 <br />
 
@@ -99,6 +104,56 @@ $ python manage.py runserver # default port 8000
 ```
 
 Access the `admin` section in the browser: `http://127.0.0.1:8000/`
+
+<br />
+
+## How to Customize 
+
+When a template file is loaded in the controller, `Django` scans all template directories starting from the ones defined by the user, and returns the first match or an error in case the template is not found. 
+The  theme used to style this starter provides the following files: 
+
+```bash
+< LIBRARY_ROOT >                      # This exists in ENV: LIB/admin_soft
+   |
+   |-- templates/                     # Root Templates Folder 
+   |    |          
+   |    |-- accounts/       
+   |    |    |-- login.html           # Sign IN Page
+   |    |    |-- register.html        # Sign UP Page
+   |    |
+   |    |-- includes/       
+   |    |    |-- footer.html          # Footer component
+   |    |    |-- sidebar.html         # Sidebar component
+   |    |    |-- navigation.html      # Navigation Bar
+   |    |    |-- scripts.html         # Scripts Component
+   |    |
+   |    |-- layouts/       
+   |    |    |-- base.html            # Masterpage
+   |    |    |-- base-fullscreen.html # Masterpage for Auth Pages
+   |    |
+   |    |-- pages/       
+   |         |-- index.html           # Dashboard page
+   |         |-- profile.html         # Settings  Page
+   |         |-- *.html               # All other pages
+   |    
+   |-- ************************************************************************
+```
+
+When the project requires customization, we need to copy the original file that needs an update (from the virtual environment) and place it in the template folder using the same path. 
+
+For instance, if we want to customize the `footer.html` these are the steps:
+
+- `Step 1`: create the `templates` DIRECTORY inside your app 
+- `Step 2`: configure the project to use this new template directory
+  - Edit `settings.py` TEMPLATES section 
+- `Step 3`: copy the `footer.html` from the original location (inside your ENV) and save it to the `YOUR_APP/templates` DIR
+  - Source PATH: `<YOUR_ENV>/LIB/admin_soft/includes/footer.html`
+  - Destination PATH: `YOUR_APP/templates/includes/footer.html`
+- Edit the footer (Destination PATH)    
+
+At this point, the default version of the `footer.html` shipped in the library is ignored by Django.
+
+In a similar way, all other files and components can be customized easily.
 
 <br />
 
