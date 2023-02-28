@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.10] 2023-01-29
+### Changes
+
+- Fix profile page
+- Links CleanUp
+
 ## [1.0.9] 2023-01-29
 ### Changes
 
