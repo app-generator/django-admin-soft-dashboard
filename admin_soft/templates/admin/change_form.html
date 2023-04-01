@@ -9,7 +9,7 @@
 
 {% block extrastyle %}
     {{ block.super }}
-    <link rel="stylesheet" type="text/css" href="{% static "admin/css/forms.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "css/forms.css" %}">
 {% endblock %}
 
 {% if not is_popup %}
@@ -55,7 +55,7 @@
 {% endif %}
 
 {% block content %}
-    <div class="py-4">
+    <div class="py-4 mt-5 mx-5">
         <div class="d-flex justify-content-between w-100 flex-wrap">
             <div class="mb-3 mb-lg-0">
                  <h1 class="h4">
@@ -78,7 +78,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row mx-4">
         <div class="col-12 mb-4">
             <div class="card">
                 <div class="card-body">
