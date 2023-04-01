@@ -1,4 +1,9 @@
 {% load i18n static %}
+
+{% block extrastyle %}
+    <link rel="stylesheet" type="text/css" href="{% static "css/forms.css" %}">
+{% endblock %}
+
 {% if cl.search_fields %}
     <div class="{{ direction.panel }}">
         <form id="changelist-search" method="get">

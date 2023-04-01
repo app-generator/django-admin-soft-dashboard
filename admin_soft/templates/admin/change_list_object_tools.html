@@ -1,4 +1,8 @@
-{% load i18n admin_urls %}
+{% load i18n admin_urls static %}
+
+{% block extrastyle %}
+    <link rel="stylesheet" type="text/css" href="{% static "css/forms.css" %}">
+{% endblock %}
 
 {% block object-tools-items %}
     {% if has_add_permission %}

@@ -1,4 +1,8 @@
-{% load i18n admin_soft %}
+{% load i18n admin_soft static %}
+
+{% block extrastyle %}
+    <link rel="stylesheet" type="text/css" href="{% static "css/forms.css" %}">
+{% endblock %}
 
 {% if cl.paginator.num_pages > 1 %}
     <div class="card-footer px-3 border-0 d-flex flex-column flex-lg-row align-items-center justify-content-between">
