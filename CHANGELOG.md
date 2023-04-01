@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.11] 2023-04-01
+### Changes
+
+- Patch #8, `filter_horizontal not supported`
+
 ## [1.0.10] 2023-01-29
 ### Changes
 
