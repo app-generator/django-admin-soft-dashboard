@@ -19,7 +19,7 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 
 <br />
 
-![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/215729207-5cce250e-54da-4712-89a9-c1fd6b0a149e.png)
+[![Django Admin Soft - Template project for Django provided by AppSeed.](https://user-images.githubusercontent.com/51070104/215729207-5cce250e-54da-4712-89a9-c1fd6b0a149e.png)](https://appseed.us/product/soft-ui-dashboard/django/)
 
 <br>
 
