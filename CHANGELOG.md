@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [1.0.12] 2023-04-04
+### Changes
+
+- Added missing footer
+  - profile, table & billing pages
+- Gulp Tooling for SCSS
+- DOCS Update (readme)  
+
 ## [1.0.11] 2023-04-01
 ### Changes
 
