@@ -157,6 +157,30 @@ In a similar way, all other files and components can be customized easily.
 
 <br />
 
+## Recompile SCSS  
+
+The SCSS/CSS files used to style the Ui are saved in the `static` directory. 
+In order to update the Ui colors (primary, secondary) this procedure needs to be followed. 
+
+```bash
+$ yarn                                                        # install modules
+$ vi admin_soft/static/scss/soft-ui-dashboard/_variables.scss # edit variables 
+$ gulp                                                        # SCSS to CSS translation
+```
+
+The `_variables.scss` content defines the `primary` and `secondary` colors: 
+
+```scss
+$primary:       #cb0c9f !default;   // EDIT for customization 
+$secondary:     #8392AB !default;   // EDIT for customization 
+$info:          #17c1e8 !default;   // EDIT for customization 
+$success:       #82d616 !default;   // EDIT for customization 
+$warning:       #fbcf33 !default;   // EDIT for customization 
+$danger:        #ea0606 !default;   // EDIT for customization 
+```
+
+<br />
+
 ## [PRO Version](https://appseed.us/product/soft-ui-dashboard-pro/django/)   
 
 This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Dashboard with a fresh, new design concept. `Soft UI Dashboard PRO` is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
