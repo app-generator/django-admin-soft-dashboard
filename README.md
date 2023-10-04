@@ -1,6 +1,6 @@
 # [Django Admin Soft](https://appseed.us/product/soft-ui-dashboard/django/) 
 
-Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)**, an open-source `Bootstrap 5` design from [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200).
+Modern **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** Admin Interface coded on top of **Soft UI Dashboard**, an open-source `Bootstrap 5` design from `Creative-Tim`.
 
 > Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
