@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [1.0.15] 2024-11-13
+### Changes
+
+- Update RM Links:
+  - [Django Admin Soft](https://app-generator.dev/docs/products/django-libs/theme-soft-dashboard.html) - **Documentation** & Support Links
+  - [Django Soft Dashboard](https://app-generator.dev/product/soft-dashboard/django/) - The product that uses the library
+  - [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - Learn how to code **Django** Projects
+
+
 ## [1.0.14] 2024-09-17
 ### Changes
 
