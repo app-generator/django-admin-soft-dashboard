@@ -40,7 +40,8 @@ class LoginForm(AuthenticationForm):
 
 class UserPasswordResetForm(PasswordResetForm):
     email = forms.EmailField(widget=forms.EmailInput(attrs={
-        'class': 'form-control'
+        'class': 'form-control',
+        'placeholder': 'Email'
     }))
 
 class UserSetPasswordForm(SetPasswordForm):
