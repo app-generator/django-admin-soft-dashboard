@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.16] 2024-11-17
+### Changes
+
+- Bump UI Version
+  - Soft Dashboard v1.1.0
+
 ## [1.0.15] 2024-11-13
 ### Changes
 
