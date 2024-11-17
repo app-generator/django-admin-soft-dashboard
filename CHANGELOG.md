@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.17] 2024-11-17
+### Changes
+
+- Fix Fonts
+
 ## [1.0.16] 2024-11-17
 ### Changes
 
