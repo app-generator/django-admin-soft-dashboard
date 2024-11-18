@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## [1.0.18] 2024-11-17
+### Changes
+
+- Fix Nucleo Resources (Icons)
+
+## [1.0.17] 2024-11-17
+### Changes
+
+- Fix Fonts
+
+## [1.0.16] 2024-11-17
+### Changes
+
+- Bump UI Version
+  - Soft Dashboard v1.1.0
+
 ## [1.0.15] 2024-11-13
 ### Changes
 
