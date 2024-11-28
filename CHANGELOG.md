@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.20] 2024-11-28
+### Changes
+
+- Fix Links (minor)
+
 ## [1.0.19] 2024-11-28
 ### Changes
 

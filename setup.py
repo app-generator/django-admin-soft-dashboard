@@ -8,11 +8,11 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
 name='django-admin-soft-dashboard',
-version='1.0.19',
+version='1.0.20',
 zip_safe=False,
 packages=find_packages(),
 include_package_data=True,
-description='Modern template for Django admin interface',
+description='Modern template for Django admin interface - Soft Dashboard Design',
 long_description=README,
 long_description_content_type="text/markdown",
 url='https://app-generator.dev/product/soft-ui-dashboard/django/',
