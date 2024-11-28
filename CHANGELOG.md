@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.19] 2024-11-28
+### Changes
+
+- Fix FA link
+- Theme cleanUP
+
 ## [1.0.18] 2024-11-17
 ### Changes
 

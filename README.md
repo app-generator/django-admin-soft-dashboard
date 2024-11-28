@@ -19,7 +19,25 @@ Modern template for **[Django Admin](https://app-generator.dev/docs/products/dja
   
 <br />
 
-![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap Design.](https://user-images.githubusercontent.com/51070104/215729207-5cce250e-54da-4712-89a9-c1fd6b0a149e.png)
+![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap 5 Design.](https://github.com/user-attachments/assets/9d2f1079-965d-40e1-8e14-c8b26b6609fc)
+
+<br />
+
+## [Soft Dashboard PRO Version](https://app-generator.dev/product/soft-ui-dashboard-pro/django/)
+
+> The premium version provides more features, priority on support, and is more often updated - [Live Demo](https://django-soft-dash-pro.onrender.com/).
+
+- **Simple, Easy-to-Extend** Codebase
+- **Soft UI Dashboard** Design - PRO Version
+- Bootstrap 5 CSS
+- **OAuth** - Github
+- **Extended User Profile**
+- **API** via DRF 
+- **Charts** via ApexJS 
+- **Celery** (async tasks)
+- **Deployment-Ready** for Render 
+
+![Django Soft Dashboard PRO - Premium starter powered by Django and Bootstrap 5 - actively supported provided by App-Generator.](https://github.com/user-attachments/assets/e615cd04-2340-4dd1-9c38-19b9761fc1e9)
 
 <br />
 
