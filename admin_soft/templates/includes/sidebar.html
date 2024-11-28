@@ -11,7 +11,7 @@
     <hr class="horizontal dark mt-0">
     <div class="collapse navbar-collapse  w-auto " id="sidenav-collapse-main">
       <ul class="navbar-nav">
-
+      {% if request.user.is_superuser %}   
 
         {% admin_get_menu as app_list %}
         {% if app_list %}
@@ -58,6 +58,8 @@
           {% endfor %}
         {% endif %}
 
+      <!-- superuser guard -->  
+      {% else %}
 
         <li class="nav-item">
           <a class="nav-link {% if segment == 'dashboard' %}active{% endif %}" href="{% url "index" %}">
@@ -252,6 +254,8 @@
           </a>
         </li>
         {% endif %}
+      
+      {% endif %}  
       </ul>
     </div>
     <div class="sidenav-footer mx-3 ">
