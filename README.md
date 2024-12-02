@@ -19,7 +19,7 @@ Modern template for **[Django Admin](https://app-generator.dev/docs/products/dja
   
 <br />
 
-![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap 5 Design.](https://github.com/user-attachments/assets/8bb25ecd-ced5-425f-956f-e01c3d8a928c)
+![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap 5 Design.](https://github.com/user-attachments/assets/2dd7adf3-bf5f-4894-b585-3696e7a8606f)
 
 <br />
 
@@ -37,7 +37,7 @@ Modern template for **[Django Admin](https://app-generator.dev/docs/products/dja
 - **Celery** (async tasks)
 - **Deployment-Ready** for Render 
 
-![Django Soft Dashboard PRO - Premium starter powered by Django and Bootstrap 5 - actively supported provided by App-Generator.](https://github.com/user-attachments/assets/36cc976e-1e3f-444c-a951-344ad81206a1)
+![Django Soft Dashboard PRO - Premium starter powered by Django and Bootstrap 5 - actively supported provided by App-Generator.](https://github.com/user-attachments/assets/828b0f83-1a37-4390-8685-411b4f408cdb)
 
 <br />
 
