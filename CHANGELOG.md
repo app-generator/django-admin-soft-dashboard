@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.24] 2024-12-16
+### Changes
+
+- Mention [Django App Generator - Soft Design](https://app-generator.dev/tools/django-generator/soft/)
+
 ## [1.0.23] 2024-12-02
 ### Changes
 

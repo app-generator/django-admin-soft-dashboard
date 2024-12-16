@@ -19,6 +19,22 @@ Modern template for **[Django Admin](https://app-generator.dev/docs/products/dja
   
 <br />
 
+### Build a Starter with [Django App Generator - Soft Design](https://app-generator.dev/tools/django-generator/soft/)
+
+- Access the [App Generator](https://app-generator.dev/tools/django-generator/) page
+- Select Soft Dashboard as the preferred design
+- (Optional) Design Database: edit models and fields
+- (Optional) Edit the fields for the extended user model
+- (Optional) Enable OAuth for GitHub
+- (Optional) Add Celery (async tasks)
+- (Optional) Enable Dynamic API Module
+- Docker Scripts
+- Render CI/Cd Scripts
+
+**The generated Django project is available as a ZIP Archive and also uploaded to GitHub.**
+
+<br />
+
 ![Django Soft Dashboard - Modern template for Django Admin Section crafted on top of a modern Bootstrap 5 Design.](https://github.com/user-attachments/assets/2dd7adf3-bf5f-4894-b585-3696e7a8606f)
 
 <br />
