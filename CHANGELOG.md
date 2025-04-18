@@ -4,7 +4,7 @@
 ### Changes
 
 - Update RM Links
-  - [Black Dashboard](https://app-generator.dev/product/black-dashboard/) Design 
+  - [Soft Dashboard](https://app-generator.dev/product/soft-ui-dashboard/) Design 
   - [Creative-Tim](https://app-generator.dev/agency/creative-tim/) Agency
 
 ## [1.0.24] 2024-12-16
