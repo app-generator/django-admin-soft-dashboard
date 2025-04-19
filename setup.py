@@ -8,7 +8,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
 name='django-admin-soft-dashboard',
-version='1.0.25',
+version='1.0.26',
 zip_safe=False,
 packages=find_packages(),
 include_package_data=True,
